@@ -1,42 +1,55 @@
-# Hi, I'm Shafa Aura Yogadiasa 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
 
-🎓 Information Technology Student  
-🎨 UI/UX Design & Frontend Enthusiast  
-💻 Passionate about building meaningful digital experiences  
-📍 Indonesia  
+<h1 align="center">Hi, I'm Shafa Aura Yogadiasa 👋</h1>
+
+<p align="center">
+🎓 Information Technology Student <br>
+🎨 UI/UX Design & Frontend Enthusiast <br>
+💻 Building intuitive and meaningful digital experiences <br>
+📍 Indonesia
+</p>
 
 ---
 
 ## 🌟 About Me
 
-I am an Information Technology undergraduate driven by a passion for crafting intuitive and impactful digital products. My primary interests lie in **UI/UX design** and **frontend development**, where I focus on transforming ideas into user-centered, accessible, and visually engaging interfaces.
+I am an Information Technology undergraduate passionate about crafting intuitive, user-centered digital products. My primary focus is on **UI/UX design** and **frontend development**, where I combine creativity with technical problem-solving to build engaging and accessible interfaces.
 
-I enjoy the process of understanding user needs, designing thoughtful experiences, and bringing them to life through clean and responsive code. For me, technology is not only about functionality — it’s about how people interact with and experience it.
+I enjoy understanding user behavior, designing thoughtful solutions, and translating designs into responsive and interactive applications. For me, technology is not just about systems — it’s about how people experience them.
 
-With a broader foundation in Information Technology, I also have exposure to **data analysis** and **general software development**, allowing me to approach problems holistically — balancing usability, logic, and system efficiency.
-
----
-
-## 🎯 What I’m Currently Focused On
-
-- Designing intuitive and accessible user interfaces  
-- Improving frontend development skills (React & modern JS ecosystem)  
-- Learning more about product thinking and user research  
-- Strengthening problem-solving through real-world projects  
+With a broader IT foundation, I also have exposure to **data analysis** and **software development**, enabling me to approach problems holistically — balancing usability, performance, and technical efficiency.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🎯 Current Focus
+
+- Designing intuitive and accessible UI
+- Strengthening frontend development skills (React & modern JS ecosystem)
+- Improving design systems and prototyping workflows
+- Expanding knowledge in product thinking & user research
+- Exploring data-driven decision making
+
+---
+
+## 🛠 Tech Stack
 
 ### 💻 Development
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,git)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,git" />
+</p>
 
-### 🎨 Design & Productivity
-![Design Tools](https://skillicons.dev/icons?i=figma)
+### 🎨 Design & Creative Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
-- Figma (UI Design & Prototyping)  
-- Canva  
-- Notion  
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+</p>
 
 ---
 
@@ -44,7 +57,7 @@ With a broader foundation in Information Technology, I also have exposure to **d
 
 ### 🔹 karir.ai  
 AI-powered resume analyzer that generates personalized career recommendations.  
-Focused on building an intelligent system while maintaining a clear and user-friendly interface.
+Built with a focus on intelligent systems while maintaining a clean and user-friendly interface.
 
 ---
 
@@ -52,21 +65,30 @@ Focused on building an intelligent system while maintaining a clear and user-fri
 
 - Strong problem-solving mindset  
 - Effective communication skills  
-- Adaptable and fast learner  
-- Team collaboration & independent work capability  
-- Detail-oriented with user-focused thinking  
+- Highly adaptable and fast learner  
+- Able to work independently and collaboratively  
+- Detail-oriented with strong user empathy  
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![Shafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafaauray&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafaauray&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafaauray&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafaauray&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect & Collaborate
+## 🤝 Let's Collaborate
 
-I’m always open to collaborating on UI/UX, frontend, or technology-driven projects.  
-Let’s build something meaningful and impactful together ✨
+I'm open to collaborating on:
+- UI/UX design projects  
+- Frontend web development  
+- Creative tech initiatives  
+- Technology-driven solutions  
+
+Let’s build something impactful and meaningful together ✨
