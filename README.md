@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="45%" />
 </p>
 
 <h1 align="center">Hi, I'm Shafa Aura Yogadiasa 👋</h1>
@@ -7,8 +7,26 @@
 <p align="center">
 🎓 Information Technology Student <br>
 🎨 UI/UX Design & Frontend Enthusiast <br>
-💻 Building intuitive and meaningful digital experiences <br>
-📍 Indonesia
+💻 Building intuitive and meaningful digital experiences
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shafaaurayogadiasa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/shafaauray/?hl=id">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shafaauray">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:shafaaurayogadiasa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -25,11 +43,10 @@ With a broader IT foundation, I also have exposure to **data analysis** and **so
 
 ## 🎯 Current Focus
 
-- Designing intuitive and accessible UI
-- Strengthening frontend development skills (React & modern JS ecosystem)
-- Improving design systems and prototyping workflows
-- Expanding knowledge in product thinking & user research
-- Exploring data-driven decision making
+- Designing intuitive and accessible UI  
+- Strengthening frontend development skills (React & modern JS ecosystem)  
+- Improving design systems and prototyping workflows  
+- Expanding knowledge in product thinking & user research  
 
 ---
 
@@ -53,24 +70,6 @@ With a broader IT foundation, I also have exposure to **data analysis** and **so
 
 ---
 
-## 📌 Featured Project
-
-### 🔹 karir.ai  
-AI-powered resume analyzer that generates personalized career recommendations.  
-Built with a focus on intelligent systems while maintaining a clean and user-friendly interface.
-
----
-
-## 💡 Strengths
-
-- Strong problem-solving mindset  
-- Effective communication skills  
-- Highly adaptable and fast learner  
-- Able to work independently and collaboratively  
-- Detail-oriented with strong user empathy  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,10 +84,10 @@ Built with a focus on intelligent systems while maintaining a clean and user-fri
 
 ## 🤝 Let's Collaborate
 
-I'm open to collaborating on:
-- UI/UX design projects  
-- Frontend web development  
-- Creative tech initiatives  
-- Technology-driven solutions  
+I'm open to collaboration in:
+- UI/UX Design  
+- Frontend Web Development  
+- Creative Tech Projects  
+- Technology-driven Solutions  
 
-Let’s build something impactful and meaningful together ✨
+Let’s build something impactful together ✨
